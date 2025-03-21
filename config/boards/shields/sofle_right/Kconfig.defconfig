@@ -1,0 +1,6 @@
+if SHIELD_SOFLE_RIGHT
+
+config ZMK_KEYBOARD_NAME
+    default "sofle_right"
+
+endif
