@@ -1,2 +1,0 @@
-config SHIELD_SOFLE_RIGHT
-    def_bool $(shileds_list_contains, sofle_right)
